@@ -8,7 +8,6 @@
 
 
 const urls = [
-	'https://hhming.moe',
-	'https://github.com/hms5232',
-	'https://gitlab.com/hms5232',
+	'https://qualtricsxmnkmjvbv35.qualtrics.com/jfe/form/SV_aeOeVIWmSLbIOwe',
+	'https://qualtricsxmnkmjvbv35.qualtrics.com/jfe/form/SV_8vRyKXh1qMC1nZc',
 ];
